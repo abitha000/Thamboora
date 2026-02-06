@@ -13,7 +13,7 @@ const HeroSection = () => {
         className="absolute inset-0"
       >
         <img
-          src="https://customer-assets.emergentagent.com/job_dine-thamboora/artifacts/2xu8qxci_Screenshot_2026-02-06-14-30-25-76_3d9111e2d3171bf4882369f490c087b4.jpg"
+          src="https://customer-assets.emergentagent.com/job_dine-thamboora/artifacts/s5hwffeb_29117.jpg"
           alt="Thamboora Restaurant Interior"
           className="w-full h-full object-cover"
         />
